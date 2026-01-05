@@ -1,4 +1,4 @@
-const url = "PASTE_URL_SCRIPT_DI_SINI";
+const url = "https://script.google.com/macros/s/AKfycbyZpjoQUS7E4MU8c2kiyuTtUZphop2rjL2VdlZh7i7vP3f-e-jv-F-QHGviS2myPIndeg/exec";
 
 function tambahData() {
     let nama = document.getElementById("nama").value;
@@ -28,3 +28,4 @@ function tambahData() {
         console.error(error);
     });
 }
+
