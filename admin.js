@@ -1,4 +1,4 @@
-const url = https://script.google.com/macros/s/AKfycbxOKvSA3vTsZA_JkY5OkEcLYCxWK-z5hLcmojo2sfht5OAV5DcJO4_EvfYQs3c9YDWbSg/exec;
+const url = "https://script.google.com/macros/s/AKfycbxBpCb4zzXdPqNyhnGb9pX8E0GXmOHr3T7DICDyHx6SP5eDbpVXyKhzfBJiRuGUMKeJzA/exec";
 
 function tambahData() {
     let nama = document.getElementById("nama").value;
@@ -28,5 +28,6 @@ function tambahData() {
         console.error(error);
     });
 }
+
 
 
